@@ -50,7 +50,7 @@ I suggest you before jumping directly into hacking that you get some basics know
 | Cyber Insecurity | https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg | |
 | Cyber Insecurity | https://www.twitch.tv/cyber_insecurity | |
 | IppSec | https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA | walkthrough of old Hack the Box machines/boxes |
-| Professor Messor | https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ | Videos for study the A+, Network+ or Security+ certification |
+| Professor Messor | https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ | Videos to study the A+, Network+ or Security+ certification |
 | OWASP | https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA | |
 | Hackfest | https://www.youtube.com/user/hackfestca | |
 | DEFCON | https://www.youtube.com/user/DEFCONConference/videos | |
