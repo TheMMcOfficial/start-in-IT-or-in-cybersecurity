@@ -40,7 +40,7 @@ I suggest you before jumping directly into hacking that you get some basics know
 | ------------- | ------------- |
 | CompTIA Security+ | |
 | CompTIA Pentest+ | |
-| CEH (certified etical hacking | One of the most hated certs but can bypass the HR filtering for a job |
+| CEH (certified etical hacking | One of the most hated cert but can bypass the HR filtering for a job |
 | eJPT | The training is FREE but you need to pay for the exam. |
 | OSCP | You need to have a lot of knowledge before attempting this cert. It is also an entry cert for pentesting... |
 
