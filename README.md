@@ -55,3 +55,6 @@ I suggest you before jumping directly into hacking that you get some basics know
 ## Books
 | Name  | Comments |
 | ------------- | ------------- |
+
+
+more resources for bugbunty: https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
