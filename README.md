@@ -54,6 +54,9 @@ I suggest you before jumping directly into hacking that you get some basics know
 | OWASP | https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA | |
 | Hackfest | https://www.youtube.com/user/hackfestca | |
 | DEFCON | https://www.youtube.com/user/DEFCONConference/videos | |
+| The Cyber Mentor | https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw | |
+| LiveOverflow | https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w | |
+| STÖK | https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg | |
 
 ## Books
 | Name  | Comments |
