@@ -24,4 +24,5 @@ If you want to start in IT or you want to in cybersecurity. I regroup all the re
 
 | Name | Website |
 | ------------- | ------------- |
+| Try Hack Me | https://tryhackme.com/ | This site is more beginner friendly. You can find some tutorial like challenge.
 | Hack the box | https://www.hackthebox.eu/ |
