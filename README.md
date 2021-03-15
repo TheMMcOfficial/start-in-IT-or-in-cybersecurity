@@ -44,6 +44,14 @@ I suggest you before jumping directly into hacking that you get some basics know
 | eJPT | The training is FREE but you need to pay for the exam. |
 | OSCP | You need to have a lot of knowledge before attempting this cert. It is also an entry cert for pentesting... |
 
+## Youtube or Twitch channel
+| Name | Link | Comments |
+| ------------- | ------------- |
+| Cyber Insecurity | https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg |
+| Cyber Insecurity | https://www.twitch.tv/cyber_insecurity |
+| IppSec | https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA | walkthrough of old Hack the Box machines/boxes |
+
+
 ## Books
 | Name  | Comments |
 | ------------- | ------------- |
