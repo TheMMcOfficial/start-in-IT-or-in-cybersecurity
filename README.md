@@ -1,5 +1,5 @@
 # start-in-IT-or-in-cybersecurity
-If you want to start in IT or you want to in cybersecurity. I regroup all the ressources that I know here.
+If you want to start in IT or you want to in cybersecurity. I regroup all the resources that I know here.
 
 I suggest you before jumping directly into hacking that you get some basics knowledge of networking and programming.
 
