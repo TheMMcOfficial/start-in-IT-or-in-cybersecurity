@@ -44,3 +44,6 @@ I suggest you before jumping directly into hacking that you get some basics know
 | eJPT | The training is FREE but you need to pay for the exam. |
 | OSCP | You need to have a lot of knowledge before attempting this cert. It is also an entry cert for pentesting... |
 
+## Books
+| Name  | Comments |
+| ------------- | ------------- |
