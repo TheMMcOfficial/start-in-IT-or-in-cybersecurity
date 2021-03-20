@@ -32,7 +32,7 @@ I suggest you before jumping directly into hacking that you get some basics know
 
 | Name | Website | Comments |
 | ------------- | ------------- | ------------- |
-| Try Hack Me | https://tryhackme.com/ | This site is more beginner friendly. You can find some tutorial like challenge. |
+| Try Hack Me | https://tryhackme.com/ | This site is more beginner friendly. You can find some tutorial that explain you how to uise a tool... |
 | Hack the box | https://www.hackthebox.eu/ | |
 
 ## Certs for cybersecurity
