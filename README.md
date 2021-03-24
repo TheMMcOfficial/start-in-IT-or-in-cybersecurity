@@ -70,5 +70,6 @@ It probably exist more advance hacking certs but at the moment I don't know them
 | ------------- | ------------- |
 | The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy | autor: Patrick Engebretson |
 
+https://www.linkedin.com/pulse/top-10-penetration-testing-books-beginnersand-more-mic-merritt/?trackingId=BHGjpbGchr6RU2gy7Nph3A%3D%3D
 
 more resources for bugbunty: https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
