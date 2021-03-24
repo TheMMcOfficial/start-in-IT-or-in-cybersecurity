@@ -4,10 +4,16 @@ If you want to start in IT or you want to in cybersecurity. I regroup all the re
 I suggest you before jumping directly into hacking that you get some basics knowledge of networking and programming.
 
 ## Certs to understand how computers work/understand networking
+
 | Name  | Comments |
 | ------------- | ------------- |
 | CompTIA A+ | |
 | CompTIA Network+ | |
+
+## Learn programming
+| Name  | Website |
+| ------------- | ------------- |
+| Codecademy  | https://www.codecademy.com |
 
 ## Learn Linux
 
