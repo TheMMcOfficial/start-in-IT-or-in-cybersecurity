@@ -40,6 +40,8 @@ I suggest you before jumping directly into hacking that you get some basics know
 | ------------- | ------------- | ------------- |
 | Try Hack Me | https://tryhackme.com/ | This site is more beginner friendly. You can find some tutorial that explain you how to uise a tool... |
 | Hack the box | https://www.hackthebox.eu/ | |
+| PentesterLab | https://www.pentesterlab.com/ | |
+| hackerone (101) | https://www.hackerone.com/for-hackers/hacker-101 | |
 
 ## Certs for cybersecurity
 | Name  | Comments |
