@@ -20,6 +20,7 @@ I suggest you before jumping directly into hacking that you get some basics know
 | Name  | Website |
 | ------------- | ------------- |
 | Bandit (over the wire) | https://overthewire.org/wargames/bandit/  |
+| Linux Journey | https://linuxjourney.com/ |
 
 ## Learn the basics of serverside web-security.
 
