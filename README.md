@@ -36,12 +36,18 @@ I suggest you before jumping directly into hacking that you get some basics know
 | ------------- | ------------- |
 | Natas (over the wire) | https://overthewire.org/wargames/natas/ |
 
+## Learn Web Application Hacking
+| Name  | Website |
+| ------------- | ------------- |
+| WebSecurity Academy | https://portswigger.net/web-security |
+
 ## CTF or mini challenges
 
 | Name | Website |
 | ------------- | ------------- |
 | Root Me | https://www.root-me.org/ |
 | Ring Zer0 CTF | https://ringzer0ctf.com/ |
+| Hack the box | https://www.hackthebox.eu/ |
 
 ## More advance Hacking
 
@@ -66,13 +72,17 @@ It probably exist more advance hacking certs but at the moment I don't know them
 | Name | Link | Comments |
 | ------------- | ------------- | ------------- |
 | Cyber Insecurity | https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg | |
-| Cyber Insecurity | https://www.twitch.tv/cyber_insecurity | |
 | IppSec | https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA | walkthrough of old Hack the Box machines/boxes |
 | Professor Messor | https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ | Videos to study the A+, Network+ or Security+ certification |
 | OWASP | https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA | |
+| HackerOne | https://www.youtube.com/c/HackerOneTV | |
 | Hackfest | https://www.youtube.com/user/hackfestca | |
+| NorthSec (Nsec) | https://www.youtube.com/c/NorthSecIo | |
 | DEFCON | https://www.youtube.com/user/DEFCONConference/videos | |
+| Black Hat | https://www.youtube.com/c/BlackHatOfficialYT | |
 | The Cyber Mentor | https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw | |
+| Nahamsec | https://www.youtube.com/c/Nahamsec | |
+| John Hammond | https://www.youtube.com/c/JohnHammond010 | |
 | LiveOverflow | https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w | |
 | STÖK | https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg | |
 
